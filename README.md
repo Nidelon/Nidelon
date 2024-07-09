@@ -8,6 +8,6 @@
 - I like to make bots for games, not cheats, rather autonomous players.
 - I myself do not adhere to the style of the code, and I do not fully understand everything (sorry)
 - If you write to me in telegram hoping for free help, then I'll bite, I'm not a know-it-all 😾
-- 
+
 ## Account Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidelon&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
