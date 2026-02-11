@@ -19,6 +19,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Nidelon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats graph" /> 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nidelon&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Nidelon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200" alt="stats graph" /> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nidelon&theme=tokyonight&hide_border=true" height="195" alt="languages graph" />
 </div>
